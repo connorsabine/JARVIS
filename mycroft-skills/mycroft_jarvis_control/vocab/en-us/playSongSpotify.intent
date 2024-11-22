@@ -1,0 +1,4 @@
+play {song}
+play {song} on spotify
+queue {song}
+queue {song} on spotify

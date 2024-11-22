@@ -1,0 +1,501 @@
+2024-11-13 14:23:36,965 - JARVIS started.
+2024-11-13 14:23:46,686 - User command: hello what's today's date
+2024-11-13 14:23:50,617 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 14:24:17,272 - User command: is there any way that i can make it
+2024-11-13 14:25:42,657 - JARVIS started.
+2024-11-13 14:25:51,472 - User command: can we switch to terminal mode
+2024-11-13 14:25:55,047 - Switched to terminal mode.
+2024-11-13 14:26:00,664 - User command: whats todays date
+2024-11-13 14:26:04,592 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 14:26:08,404 - User command: swap to voice mode
+2024-11-13 14:26:11,775 - Switched to voice mode.
+2024-11-13 14:26:16,036 - User command: hey jarvis can we power down
+2024-11-13 14:26:19,058 - Powering down.
+2024-11-13 14:26:19,058 - Initiating system shutdown.
+2024-11-13 14:29:09,384 - JARVIS started.
+2024-11-13 14:30:54,461 - JARVIS started.
+2024-11-13 14:31:53,728 - User command: play today's date
+2024-11-13 14:31:57,655 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 14:33:04,754 - JARVIS started.
+2024-11-13 14:33:49,507 - JARVIS started.
+2024-11-13 14:34:02,406 - User command: date please
+2024-11-13 14:34:06,332 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 14:36:29,109 - JARVIS started.
+2024-11-13 14:36:41,266 - User command: hey jarvis can i get the date please
+2024-11-13 14:36:45,190 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 14:37:01,097 - User command: can you swap the terminal mode
+2024-11-13 14:37:04,675 - Switched to terminal mode.
+2024-11-13 14:38:53,522 - JARVIS started.
+2024-11-13 14:39:04,549 - User command: hey jarvis can we switch to terminal mode
+2024-11-13 14:39:08,123 - Switched to terminal mode.
+2024-11-13 14:39:13,463 - User command: swap to voice
+2024-11-13 14:39:26,351 - Assistant response: I'm an AI text-based model and currently don't support the voice feature. However, I'm here to help you with any text-based queries or tasks.
+2024-11-13 14:39:30,514 - User command: swap to voice mode
+2024-11-13 14:39:33,888 - Switched to voice mode.
+2024-11-13 14:39:43,569 - User command: hey jarvis can you power down please
+2024-11-13 14:39:46,589 - Powering down.
+2024-11-13 14:39:46,589 - Initiating system shutdown.
+2024-11-13 14:41:09,705 - JARVIS started.
+2024-11-13 14:41:18,460 - User command: play jarvis can you give me the current time
+2024-11-13 14:41:20,831 - Time spoken: 02:41 PM
+2024-11-13 14:41:25,614 - User command: jarvis can you give me the date
+2024-11-13 14:41:29,494 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 14:41:34,696 - User command: hey jarvis can you tell me what an f1 car is
+2024-11-13 14:42:00,426 - Assistant response: An F1 car, short for Formula One car, is a highly specialized, high-speed, open-cockpit, single-seat race car used in the Formula One World Championship, a global motorsport competition. They are designed for speed and agility, featuring powerful engines and advanced aerodynamic design.
+2024-11-13 14:42:04,161 - User command: thanks travis
+2024-11-13 14:42:14,900 - Assistant response: You're welcome! But please note, my name is JARVIS, not Travis. Can I assist you with anything else?
+2024-11-13 14:48:25,410 - JARVIS started.
+2024-11-13 14:48:34,183 - User command: can you tell me what an f1 car is
+2024-11-13 14:56:52,047 - JARVIS started.
+2024-11-13 14:56:59,915 - User command: can you open google
+2024-11-13 14:57:48,938 - JARVIS started.
+2024-11-13 14:57:58,609 - User command: hey jarvis can you open google
+2024-11-13 14:59:19,500 - JARVIS started.
+2024-11-13 14:59:28,897 - User command: can you open google
+2024-11-13 14:59:54,368 - JARVIS started.
+2024-11-13 15:00:02,757 - User command: can you open google
+2024-11-13 15:00:06,584 - App not found: google
+2024-11-13 15:00:12,007 - User command: can you open file explorer
+2024-11-13 15:00:16,440 - App not found: file explorer
+2024-11-13 15:00:19,077 - User command: steam
+2024-11-13 15:00:34,255 - Assistant response: Hello. Could you please provide more context or details? Are you referring to the digital distribution platform for video games called 'Steam' or something else?
+2024-11-13 15:00:38,117 - User command: can you open steam
+2024-11-13 15:00:41,943 - App not found: steam
+2024-11-13 15:12:00,507 - JARVIS started.
+2024-11-13 15:12:10,701 - User command: hey jarvis can i get the weather for today
+2024-11-13 15:12:14,630 - Date spoken: Wednesday, November 13, 2024
+2024-11-13 15:12:18,211 - User command: can i get the weather
+2024-11-13 15:13:06,552 - JARVIS started.
+2024-11-13 15:13:16,495 - User command: hey jarvis can i get the weather for today
+2024-11-13 15:13:40,214 - JARVIS started.
+2024-11-13 15:13:49,465 - User command: nervous can i get the weather
+2024-11-13 15:14:46,536 - JARVIS started.
+2024-11-13 15:15:00,768 - User command: can i get the weather
+2024-11-13 15:19:48,112 - JARVIS started.
+2024-11-13 15:20:01,331 - User command: can i get the weather
+2024-11-13 15:20:53,809 - JARVIS started.
+2024-11-13 15:21:08,396 - User command: can i get the weather
+2024-11-13 15:22:15,005 - JARVIS started.
+2024-11-13 15:22:27,633 - User command: hey jarvis can i get the weather
+2024-11-13 15:25:15,871 - JARVIS started.
+2024-11-13 15:25:24,950 - User command: hey jarvis can i get the weather
+2024-11-13 15:25:41,641 - Weather information spoken: The weather is currently clear sky with a temperature of 270.31 degrees fahrenheit, atmospheric pressure of 1035 a m use, humidity of 49 percent and wind speed reaching 3.95 miles per hour
+2024-11-13 15:25:56,275 - User command: can i get the time
+2024-11-13 15:25:58,894 - Time spoken: 03:25 PM
+2024-11-13 15:27:34,856 - JARVIS started.
+2024-11-13 15:27:42,863 - User command: can i get the weather
+2024-11-13 15:27:58,649 - Weather information spoken: The weather is currently clear sky with a temperature of 26.89 degrees fahrenheit, atmospheric pressure of 1035 a m use, humidity of 49 percent and wind speed reaching 8.84 miles per hour
+2024-11-13 15:28:03,700 - User command: stupid ass
+2024-11-13 15:28:09,740 - Assistant response: Sorry to hear that. How can I assist you better?
+2024-11-13 15:28:17,025 - User command: suck my dick jarvis
+2024-11-13 15:28:21,519 - Assistant response: Sorry, but I can't assist with that.
+2024-11-13 15:28:24,770 - User command: you will be soon
+2024-11-13 15:28:30,777 - Assistant response: I'm an artificial intelligence and unable to carry out your request.
+2024-11-13 15:28:43,155 - User command: i don't think he wants to talk to you just
+2024-11-13 15:36:33,438 - JARVIS started.
+2024-11-13 15:36:46,117 - User command: can you tell me what an f1 car is
+2024-11-14 08:45:31,822 - JARVIS started.
+2024-11-14 08:45:46,132 - User command: can i get the weather
+2024-11-14 08:45:46,190 - Requested http://ipinfo.io/json
+2024-11-14 08:46:03,134 - Weather information spoken: The weather is currently overcast clouds with a temperature of 32.59 degrees fahrenheit, atmospheric pressure of 1029 a m use, humidity of 74 percent and wind speed reaching 7.36 miles per hour
+2024-11-14 08:46:10,570 - User command: thanks jarvis
+2024-11-14 08:48:20,683 - JARVIS started.
+2024-11-14 08:48:29,743 - User command: can i get my ip
+2024-11-14 08:48:29,798 - Requested http://ipinfo.io/json
+2024-11-14 08:48:36,287 - IP address spoken: <[OK] Ipinfo - Geocode [Burlington, Vermont, US]>
+2024-11-14 08:48:43,603 - User command: can i get where am i
+2024-11-14 08:48:43,660 - Requested http://ipinfo.io/json
+2024-11-14 08:48:43,713 - Requested http://ipinfo.io/json
+2024-11-14 08:48:43,764 - Requested http://ipinfo.io/json
+2024-11-14 08:48:47,991 - Location spoken: Burlington, Vermont, US
+2024-11-14 08:56:38,718 - JARVIS started.
+2024-11-14 08:56:47,833 - User command: what's my ip
+2024-11-14 08:56:47,915 - Requested http://ipinfo.io/json
+2024-11-14 08:56:54,060 - IP address spoken: 132.198.231.92
+2024-11-14 09:09:30,683 - JARVIS started.
+2024-11-14 09:09:39,781 - User Input: what's my ip
+2024-11-14 09:09:40,640 - error_code=invalid_type error_message="Invalid type for 'messages[1].content[0]': expected an object, but got a string instead." error_param=messages[1].content[0] error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-11-14 09:09:40,641 - OPENAI COMMAND RESPONSE: False
+2024-11-14 09:09:48,669 - User Input: what's my ip
+2024-11-14 09:09:48,815 - error_code=invalid_type error_message="Invalid type for 'messages[1].content[0]': expected an object, but got a string instead." error_param=messages[1].content[0] error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-11-14 09:09:48,815 - OPENAI COMMAND RESPONSE: False
+2024-11-14 09:10:11,202 - JARVIS started.
+2024-11-14 09:10:26,691 - User Input: hey jarvis what's my ip
+2024-11-14 09:10:27,081 - error_code=invalid_type error_message="Invalid type for 'messages[1].content[0]': expected an object, but got a string instead." error_param=messages[1].content[0] error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-11-14 09:10:27,082 - OPENAI COMMAND RESPONSE: False
+2024-11-14 09:11:32,423 - JARVIS started.
+2024-11-14 09:11:46,503 - User Input: what's my ip
+2024-11-14 09:11:46,933 - error_code=invalid_type error_message="Invalid type for 'messages[1].content[0]': expected an object, but got a string instead." error_param=messages[1].content[0] error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-11-14 09:11:46,933 - OPENAI COMMAND RESPONSE: False
+2024-11-14 09:12:40,143 - JARVIS started.
+2024-11-14 09:12:49,057 - User Input: get my ip
+2024-11-14 09:12:49,057 - OPENAI COMMAND RESPONSE: False
+2024-11-14 09:13:52,939 - JARVIS started.
+2024-11-14 09:14:08,574 - User Input: can i get my ip
+2024-11-14 09:14:08,574 - OPENAI COMMAND RESPONSE: False
+2024-11-14 09:14:12,197 - Error in openai query, response was empty.
+2024-11-14 09:15:43,895 - JARVIS started.
+2024-11-14 09:16:01,883 - User Input: can i get my ip
+2024-11-14 09:16:03,021 - OPENAI COMMAND RESPONSE: 'ip'
+2024-11-14 09:16:56,307 - JARVIS started.
+2024-11-14 09:17:12,258 - User Input: can i get my ip
+2024-11-14 09:17:13,347 - OPENAI COMMAND RESPONSE: ip
+2024-11-14 09:17:13,432 - Requested http://ipinfo.io/json
+2024-11-14 09:17:19,566 - IP address spoken: 132.198.231.92
+2024-11-14 09:17:22,484 - User Input: current weather
+2024-11-14 09:17:23,327 - OPENAI COMMAND RESPONSE: weather
+2024-11-14 09:17:23,378 - Requested http://ipinfo.io/json
+2024-11-14 09:17:39,967 - Weather information spoken: The weather is currently broken clouds with a temperature of 33.67 degrees fahrenheit, atmospheric pressure of 1029 a m use, humidity of 71 percent and wind speed reaching 1.01 miles per hour
+2024-11-14 09:17:44,897 - User Input: can i get where am i
+2024-11-14 09:17:45,443 - OPENAI COMMAND RESPONSE: where am i
+2024-11-14 09:17:45,493 - Requested http://ipinfo.io/json
+2024-11-14 09:17:45,545 - Requested http://ipinfo.io/json
+2024-11-14 09:17:45,597 - Requested http://ipinfo.io/json
+2024-11-14 09:17:49,825 - Location spoken: Burlington, Vermont, US
+2024-11-14 09:17:53,148 - User Input: all right thanks
+2024-11-14 09:17:54,825 - OPENAI COMMAND RESPONSE: You're welcome! If you have any other commands or questions, feel free to ask.
+2024-11-14 09:18:12,665 - User Input: what's today's date
+2024-11-14 09:18:13,152 - OPENAI COMMAND RESPONSE: date
+2024-11-14 09:18:17,532 - Date spoken: Thursday, November 14, 2024
+2024-11-14 09:50:41,909 - JARVIS started.
+2024-11-14 09:53:18,028 - JARVIS started.
+2024-11-14 09:57:12,544 - JARVIS started.
+2024-11-14 09:58:25,901 - User Input: i was just down there
+2024-11-14 09:58:26,838 - COMMAND RESPONSE: other
+2024-11-14 09:59:38,456 - JARVIS started.
+2024-11-14 10:00:09,408 - User Input: tunein make it
+2024-11-14 10:00:10,244 - COMMAND RESPONSE: other
+2024-11-14 10:01:33,993 - JARVIS started.
+2024-11-14 10:02:34,853 - JARVIS started.
+2024-11-14 10:04:36,047 - JARVIS started.
+2024-11-14 10:04:47,750 - JARVIS started.
+2024-11-14 10:06:55,404 - JARVIS started.
+2024-11-14 10:07:04,852 - JARVIS started.
+2024-11-14 10:07:27,325 - JARVIS started.
+2024-11-14 10:07:37,626 - JARVIS started.
+2024-11-14 10:07:52,571 - JARVIS started.
+2024-11-14 10:08:04,292 - JARVIS started.
+2024-11-14 10:08:42,916 - JARVIS started.
+2024-11-14 10:11:08,169 - JARVIS started.
+2024-11-14 10:11:21,816 - JARVIS started.
+2024-11-14 10:11:46,841 - JARVIS started.
+2024-11-14 10:15:16,143 - JARVIS started.
+2024-11-14 10:15:20,782 - User Input: hey jarvis can you get
+2024-11-14 10:15:21,760 - COMMAND RESPONSE: other
+2024-11-14 10:17:46,790 - JARVIS started.
+2024-11-14 10:17:52,721 - User Input: hey jarvis can you get my ip
+2024-11-14 10:17:53,539 - COMMAND RESPONSE: ip
+2024-11-14 10:17:53,625 - Requested http://ipinfo.io/json
+2024-11-14 10:17:59,777 - IP address spoken: 132.198.231.92
+2024-11-14 10:18:27,725 - JARVIS started.
+2024-11-14 10:18:31,907 - User Input: hey jarvis can you get my
+2024-11-14 10:18:32,951 - COMMAND RESPONSE: other
+2024-11-14 10:18:47,262 - User Input: my ip
+2024-11-14 10:18:47,711 - COMMAND RESPONSE: ip
+2024-11-14 10:18:47,780 - Requested http://ipinfo.io/json
+2024-11-14 10:18:53,929 - IP address spoken: 132.198.231.92
+2024-11-14 10:19:21,764 - JARVIS started.
+2024-11-14 10:22:45,139 - JARVIS started.
+2024-11-14 10:22:48,694 - User Input: can you get my ip
+2024-11-14 10:22:49,453 - COMMAND RESPONSE: ip
+2024-11-14 10:22:49,507 - Requested http://ipinfo.io/json
+2024-11-14 10:22:55,655 - IP address spoken: 132.198.231.92
+2024-11-14 10:23:39,119 - JARVIS started.
+2024-11-14 10:23:43,752 - User Input: hey jarvis can you get my ip
+2024-11-14 10:23:44,507 - COMMAND RESPONSE: ip
+2024-11-14 10:23:44,592 - Requested http://ipinfo.io/json
+2024-11-14 10:23:50,737 - IP address spoken: 132.198.231.92
+2024-11-14 10:23:55,530 - User Input: no
+2024-11-14 10:23:56,257 - COMMAND RESPONSE: other
+2024-11-14 10:25:55,223 - JARVIS started.
+2024-11-14 10:25:59,529 - User Input: can i get my i
+2024-11-14 10:26:00,266 - COMMAND RESPONSE: ip
+2024-11-14 10:26:00,335 - Requested http://ipinfo.io/json
+2024-11-14 10:26:06,481 - IP address spoken: 132.198.231.92
+2024-11-14 10:26:10,680 - User Input: fucking
+2024-11-14 10:26:11,249 - COMMAND RESPONSE: other
+2024-11-14 10:28:44,270 - JARVIS started.
+2024-11-14 10:33:21,608 - JARVIS started.
+2024-11-14 10:34:04,804 - JARVIS started.
+2024-11-14 10:34:58,599 - User Input: you better go get it
+2024-11-14 10:34:59,365 - COMMAND RESPONSE: other
+2024-11-14 10:39:50,304 - JARVIS started.
+2024-11-14 10:41:04,969 - JARVIS started.
+2024-11-14 10:41:24,844 - JARVIS started.
+2024-11-14 10:43:15,598 - JARVIS started.
+2024-11-14 10:44:25,260 - JARVIS started.
+2024-11-14 10:44:39,451 - JARVIS started.
+2024-11-14 10:46:12,961 - JARVIS started.
+2024-11-14 10:46:33,982 - JARVIS started.
+2024-11-14 10:46:54,685 - JARVIS started.
+2024-11-14 10:48:00,133 - JARVIS started.
+2024-11-14 10:48:23,063 - JARVIS started.
+2024-11-14 10:48:26,239 - User Input: tell me where i am
+2024-11-14 10:48:27,135 - COMMAND RESPONSE: where am i
+2024-11-14 10:48:27,188 - Requested http://ipinfo.io/json
+2024-11-14 10:48:27,257 - Requested http://ipinfo.io/json
+2024-11-14 10:48:27,316 - Requested http://ipinfo.io/json
+2024-11-14 10:48:31,556 - Location spoken: Burlington, Vermont, US
+2024-11-14 10:48:36,428 - User Input: can you tell me
+2024-11-14 10:48:36,939 - COMMAND RESPONSE: other
+2024-11-14 10:48:58,883 - JARVIS started.
+2024-11-14 10:49:02,700 - User Input: can you tell me where i am
+2024-11-14 10:49:04,262 - COMMAND RESPONSE: where am i
+2024-11-14 10:49:04,347 - Requested http://ipinfo.io/json
+2024-11-14 10:49:04,400 - Requested http://ipinfo.io/json
+2024-11-14 10:49:04,461 - Requested http://ipinfo.io/json
+2024-11-14 10:49:08,703 - Location spoken: Burlington, Vermont, US
+2024-11-14 10:49:11,806 - User Input: where's the weather
+2024-11-14 10:49:12,265 - COMMAND RESPONSE: weather
+2024-11-14 10:49:12,318 - Requested http://ipinfo.io/json
+2024-11-14 10:49:42,224 - JARVIS started.
+2024-11-14 10:49:51,401 - User Input: can i get the weather
+2024-11-14 10:49:52,080 - COMMAND RESPONSE: weather
+2024-11-14 10:49:52,133 - Requested http://ipinfo.io/json
+2024-11-14 10:50:13,833 - JARVIS started.
+2024-11-14 10:50:22,695 - User Input: can you tell me where i am
+2024-11-14 10:50:23,523 - COMMAND RESPONSE: where am i
+2024-11-14 10:50:23,606 - Requested http://ipinfo.io/json
+2024-11-14 10:50:23,659 - Requested http://ipinfo.io/json
+2024-11-14 10:50:23,712 - Requested http://ipinfo.io/json
+2024-11-14 10:50:27,953 - Location spoken: Burlington, Vermont, US
+2024-11-14 10:50:30,960 - User Input: what do you mean that's
+2024-11-14 10:50:31,422 - COMMAND RESPONSE: other
+2024-11-14 10:50:54,410 - User Input: it's not listening to you
+2024-11-14 10:50:55,011 - COMMAND RESPONSE: other
+2024-11-14 10:51:18,359 - JARVIS started.
+2024-11-14 10:51:28,366 - User Input: why is he like mentally
+2024-11-14 10:51:29,161 - COMMAND RESPONSE: other
+2024-11-14 10:51:39,621 - JARVIS started.
+2024-11-14 10:51:49,020 - User Input: can you tell me where i am
+2024-11-14 10:51:50,222 - COMMAND RESPONSE: where am i
+2024-11-14 10:51:50,279 - Requested http://ipinfo.io/json
+2024-11-14 10:51:50,354 - Requested http://ipinfo.io/json
+2024-11-14 10:51:50,417 - Requested http://ipinfo.io/json
+2024-11-14 10:51:54,656 - Location spoken: Burlington, Vermont, US
+2024-11-14 10:51:57,717 - User Input: play ip
+2024-11-14 10:51:58,241 - COMMAND RESPONSE: other
+2024-11-14 10:52:29,356 - JARVIS started.
+2024-11-14 10:52:36,445 - User Input: tell me where i am
+2024-11-14 10:52:37,355 - COMMAND RESPONSE: where am i
+2024-11-14 10:52:37,408 - Requested http://ipinfo.io/json
+2024-11-14 10:52:37,459 - Requested http://ipinfo.io/json
+2024-11-14 10:52:37,512 - Requested http://ipinfo.io/json
+2024-11-14 10:52:41,752 - Location spoken: Burlington, Vermont, US
+2024-11-14 10:52:45,598 - User Input: travis what's the weather today
+2024-11-14 10:52:46,200 - COMMAND RESPONSE: weather
+2024-11-14 10:52:46,253 - Requested http://ipinfo.io/json
+2024-11-14 10:53:02,448 - Weather information spoken: The weather is currently broken clouds with a temperature of 38.37 degrees fahrenheit, atmospheric pressure of 1026 a m use, humidity of 60 percent and wind speed reaching 1.99 miles per hour
+2024-11-14 10:53:05,994 - User Input: so you can shut down now
+2024-11-14 10:53:06,942 - COMMAND RESPONSE: shutdown
+2024-11-14 10:53:10,325 - Initiating system shutdown.
+2024-11-14 10:56:05,710 - JARVIS started.
+2024-11-14 10:56:10,427 - User Input: can you perchance tell me how to make meth
+2024-11-14 10:56:11,873 - COMMAND RESPONSE: other
+2024-11-14 10:56:20,076 - User Input: why not
+2024-11-14 10:56:20,567 - COMMAND RESPONSE: other
+2024-11-14 10:56:33,958 - User Input: shut down
+2024-11-14 10:56:34,410 - COMMAND RESPONSE: shutdown
+2024-11-14 10:56:37,795 - Initiating system shutdown.
+2024-11-14 14:15:44,480 - JARVIS started.
+2024-11-14 14:15:48,793 - User Input: jarvis play
+2024-11-14 14:15:50,038 - COMMAND RESPONSE: other
+2024-11-14 14:16:04,891 - User Input: play good kid
+2024-11-14 14:16:05,493 - COMMAND RESPONSE: play 'songname'
+2024-11-14 14:21:02,786 - JARVIS started.
+2024-11-14 14:21:07,959 - User Input: hey jarvis can you play shape of you
+2024-11-14 14:21:28,681 - JARVIS started.
+2024-11-14 14:21:32,956 - User Input: play jarvis can you play shape of you
+2024-11-14 14:21:38,217 - Playing You Can't Wake Up If You Don't Fall Asleep by Jarvis Cocker
+2024-11-14 14:21:44,424 - User Input: play shape of you
+2024-11-14 14:21:47,966 - Playing Shape of You by Ed Sheeran
+2024-11-14 14:22:02,110 - User Input: love is the best way to find a loves at the party is where i go
+2024-11-14 14:22:02,174 - Requested http://ipinfo.io/json
+2024-11-14 14:22:02,227 - Requested http://ipinfo.io/json
+2024-11-14 14:22:02,290 - Requested http://ipinfo.io/json
+2024-11-14 14:22:06,173 - Location spoken: Burlington, Vermont, US
+2024-11-14 14:22:59,432 - JARVIS started.
+2024-11-14 14:45:25,986 - JARVIS started.
+2024-11-14 14:46:37,212 - JARVIS started.
+2024-11-14 14:50:33,283 - JARVIS started.
+2024-11-14 14:53:48,408 - JARVIS started.
+2024-11-14 14:53:58,273 - User Input: give me
+2024-11-14 14:54:16,408 - User Input: give me my ip
+2024-11-14 14:54:16,460 - Requested http://ipinfo.io/json
+2024-11-14 14:54:22,258 - IP address spoken: 132.198.231.92
+2024-11-14 14:54:46,956 - JARVIS started.
+2024-11-14 14:54:54,320 - User Input: shape of you
+2024-11-14 14:55:05,839 - User Input: shape of you
+2024-11-14 14:55:18,682 - User Input: play shape of you
+2024-11-14 14:55:19,207 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 14:55:22,089 - There was an error playing shape of you
+2024-11-14 14:57:16,284 - User Input: play shape of you
+2024-11-14 14:57:20,259 - Playing Shape of You by Ed Sheeran
+2024-11-14 14:57:24,458 - User Input: good kid maad city
+2024-11-14 14:57:41,985 - User Input: play kid maad city
+2024-11-14 14:57:45,711 - Playing m.A.A.d city by Kendrick Lamar
+2024-11-14 15:03:26,089 - User Input: play mad city
+2024-11-14 15:03:30,322 - Playing Money Trees by Kendrick Lamar
+2024-11-14 15:03:59,832 - User Input: play mmm food
+2024-11-14 15:04:03,198 - Playing One Beer by MF DOOM
+2024-11-14 15:05:09,962 - JARVIS started.
+2024-11-14 15:05:19,358 - User Input: play mad city
+2024-11-14 15:05:23,816 - Playing Money Trees by Kendrick Lamar
+2024-11-14 15:06:17,779 - JARVIS started.
+2024-11-14 15:06:49,715 - User Input: where am i
+2024-11-14 15:06:49,770 - Requested http://ipinfo.io/json
+2024-11-14 15:06:49,823 - Requested http://ipinfo.io/json
+2024-11-14 15:06:49,875 - Requested http://ipinfo.io/json
+2024-11-14 15:06:53,718 - Location spoken: Burlington, Vermont, US
+2024-11-14 15:07:28,359 - JARVIS started.
+2024-11-14 15:07:37,553 - User Input: where am i
+2024-11-14 15:07:37,652 - Requested http://ipinfo.io/json
+2024-11-14 15:07:37,706 - Requested http://ipinfo.io/json
+2024-11-14 15:07:37,759 - Requested http://ipinfo.io/json
+2024-11-14 15:07:41,643 - Location spoken: Burlington, Vermont, US
+2024-11-14 15:07:53,181 - User Input: jarvis play good kid maad city
+2024-11-14 15:07:57,561 - Playing m.A.A.d city by Kendrick Lamar
+2024-11-14 15:08:12,933 - User Input: what's my ip
+2024-11-14 15:08:12,985 - Requested http://ipinfo.io/json
+2024-11-14 15:08:18,730 - IP address spoken: 132.198.231.92
+2024-11-14 15:09:09,525 - User Input: play welcome to the jungle
+2024-11-14 15:09:14,232 - Playing Welcome To The Jungle by Guns N' Roses
+2024-11-14 15:10:32,242 - JARVIS started.
+2024-11-14 15:11:21,433 - JARVIS started.
+2024-11-14 15:14:19,043 - JARVIS started.
+2024-11-14 15:27:04,310 - User Input: open the couch
+2024-11-14 15:27:17,590 - User Input: open the couch
+2024-11-14 15:27:41,094 - User Input: open the calculator
+2024-11-14 15:27:43,221 - Opening calculator
+2024-11-14 15:28:46,469 - User Input: jarvis open task manager
+2024-11-14 15:28:48,696 - Opening Task Manager
+2024-11-14 15:29:13,404 - User Input: open task manager
+2024-11-14 15:29:15,630 - Opening Task Manager
+2024-11-14 15:31:32,983 - User Input: play kendrick
+2024-11-14 15:31:34,982 - Opening Spotify
+2024-11-14 15:31:35,799 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 15:31:38,527 - There was an error playing kendrick
+2024-11-14 15:31:43,790 - User Input: play can't stop
+2024-11-14 15:31:45,775 - Opening Spotify
+2024-11-14 15:31:46,094 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 15:31:48,976 - There was an error playing can't stop
+2024-11-14 15:31:53,091 - User Input: welcome to the jungle
+2024-11-14 15:32:10,757 - User Input: play money for nothing
+2024-11-14 15:32:12,793 - Opening Spotify
+2024-11-14 15:32:13,074 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 15:32:16,204 - There was an error playing money for nothing
+2024-11-14 15:34:13,885 - User Input: open spotify
+2024-11-14 15:34:15,927 - Opening Spotify
+2024-11-14 15:34:20,317 - User Input: paradise city
+2024-11-14 15:34:34,605 - User Input: play welcome to the jungle
+2024-11-14 15:34:35,072 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 15:34:38,352 - There was an error playing welcome to the jungle
+2024-11-14 15:34:45,336 - User Input: play paradise city
+2024-11-14 15:34:49,777 - Playing Sweet Child O' Mine by Guns N' Roses
+2024-11-14 15:34:57,624 - User Input: play paradise city guns n' roses
+2024-11-14 15:35:01,610 - Playing Paradise City by Guns N' Roses
+2024-11-14 15:42:46,073 - User Input: what's my current volume
+2024-11-14 15:42:49,463 - Current volume is 38%
+2024-11-14 15:42:58,443 - User Input: what's my current playlist
+2024-11-14 15:43:01,147 - No playlist currently playing
+2024-11-14 15:43:05,541 - User Input: what's my current device
+2024-11-14 15:43:08,719 - Currently playing on CONNORS-DESKTOP
+2024-11-14 15:43:19,531 - User Input: could you please unpause music
+2024-11-14 15:43:19,697 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/pause with Params: {} returned 403 due to Player command failed: Restriction violated
+2024-11-14 15:47:55,027 - User Input: can you get my playlist
+2024-11-14 15:47:55,043 - Opening Spotify
+2024-11-14 15:47:58,273 - Error playing song.
+2024-11-14 15:48:03,336 - User Input: play my playlist
+2024-11-14 15:48:07,514 - Playing My Front Porch Looking In by Lonestar
+2024-11-14 15:48:16,433 - User Input: pause music
+2024-11-14 15:48:18,870 - Pausing playback
+2024-11-14 15:48:25,995 - User Input: unpause music
+2024-11-14 15:48:26,283 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/pause with Params: {} returned 403 due to Player command failed: Restriction violated
+2024-11-14 15:48:28,612 - Error pausing playback
+2024-11-14 15:48:36,813 - User Input: resume music
+2024-11-14 15:48:39,146 - Resuming playback
+2024-11-14 15:49:07,738 - User Input: next song
+2024-11-14 15:49:10,184 - Playing next song
+2024-11-14 15:49:19,482 - User Input: play
+2024-11-14 15:49:19,494 - Opening Spotify
+2024-11-14 15:49:22,676 - Error playing song.
+2024-11-14 15:49:28,122 - User Input: take me out
+2024-11-14 15:49:49,465 - User Input: play take me out
+2024-11-14 15:49:53,847 - Playing Take Me Out by Franz Ferdinand
+2024-11-14 15:50:27,382 - User Input: turn volume
+2024-11-14 15:50:38,405 - User Input: current volume
+2024-11-14 15:50:41,615 - Current volume is 38%
+2024-11-14 15:51:44,031 - User Input: set volume 50
+2024-11-14 15:51:47,111 - Volume set to 50%
+2024-11-14 15:51:51,155 - User Input: volume 100
+2024-11-14 15:52:52,527 - User Input: set volume 100
+2024-11-14 15:52:55,955 - Volume set to 100%
+2024-11-14 15:53:02,942 - User Input: set volume 50%
+2024-11-14 15:53:06,120 - Error setting volume.
+2024-11-14 15:53:56,382 - User Input: replay
+2024-11-14 15:53:56,398 - Opening Spotify
+2024-11-14 15:53:59,631 - Error playing song.
+2024-11-14 15:54:04,293 - User Input: play money for nothing
+2024-11-14 15:54:08,087 - Playing Money for Nothing by Dire Straits
+2024-11-14 15:55:15,695 - User Input: set volume 100%
+2024-11-14 15:55:19,138 - Volume set to 100%
+2024-11-14 15:56:53,912 - User Input: volume 80
+2024-11-14 15:56:57,144 - Command not recognized: volume 80
+2024-11-14 15:57:02,320 - User Input: volume 80
+2024-11-14 15:57:05,548 - Command not recognized: volume 80
+2024-11-14 15:57:09,769 - User Input: set volume to 80%
+2024-11-14 15:57:12,575 - Volume set to 80%
+2024-11-14 15:57:19,196 - User Input: volume to 50%
+2024-11-14 15:57:22,430 - Command not recognized: volume to 50%
+2024-11-14 15:57:27,406 - User Input: set volume to 50%
+2024-11-14 15:57:30,312 - Volume set to 50%
+2024-11-14 15:57:47,388 - User Input: get my playlist
+2024-11-14 15:57:50,621 - Error playing song.
+2024-11-14 15:58:07,055 - User Input: get my playlist
+2024-11-14 15:58:10,236 - Error playing song.
+2024-11-14 16:00:26,350 - User Input: play adventure of a li
+2024-11-14 16:00:31,338 - Playing Adventure of a Lifetime by Coldplay
+2024-11-14 16:04:13,750 - User Input: pause
+2024-11-14 16:04:16,984 - Command not recognized: pause
+2024-11-14 16:04:28,287 - User Input: pause music
+2024-11-14 16:04:30,695 - Pausing playback
+2024-11-14 16:52:42,757 - User Input: pause music
+2024-11-14 16:52:43,353 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/pause with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 16:52:45,685 - Error pausing playback
+2024-11-14 16:52:50,737 - User Input: unpause music
+2024-11-14 16:52:50,793 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 16:52:53,121 - Error resuming playback
+2024-11-14 16:53:00,459 - User Input: higher strats
+2024-11-14 16:53:03,698 - Command not recognized: higher strats
+2024-11-14 16:53:08,671 - User Input: play dire straits
+2024-11-14 16:53:13,250 - Playing Money for Nothing by Dire Straits
+2024-11-14 18:38:06,429 - User Input: play money for nothing by dire straits
+2024-11-14 18:38:07,336 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 18:38:11,486 - There was an error playing money for nothing by dire straits
+2024-11-14 18:38:15,849 - User Input: play money for nothing
+2024-11-14 18:38:16,133 - HTTP Error for PUT to https://api.spotify.com/v1/me/player/play with Params: {} returned 404 due to Player command failed: No active device found
+2024-11-14 18:38:19,269 - There was an error playing money for nothing
+2024-11-14 18:38:33,026 - User Input: play welcome to the jungle by guns n' roses
+2024-11-14 18:38:40,170 - Playing Welcome To The Jungle (as made famous by Guns N’ Roses) by The Rock Heroes
+2024-11-14 18:38:46,342 - User Input: welcome to the jungle
+2024-11-14 18:38:49,581 - Command not recognized: welcome to the jungle
+2024-11-14 18:38:55,324 - User Input: welcome to the jungle
+2024-11-14 18:38:58,562 - Command not recognized: welcome to the jungle
+2024-11-14 18:39:03,763 - User Input: play welcome to the jungle
+2024-11-14 18:39:08,586 - Playing Welcome To The Jungle by Guns N' Roses
+2024-11-14 18:43:07,550 - User Input: pause the music
+2024-11-14 18:43:10,784 - Command not recognized: pause the music
+2024-11-14 18:43:15,838 - User Input: pause music
+2024-11-14 18:43:18,227 - Pausing playback
+2024-11-14 18:46:08,066 - User Input: play money for nothing
+2024-11-14 18:46:12,588 - Playing Money for Nothing by Dire Straits
+2024-11-14 18:46:40,842 - User Input: pause music
+2024-11-14 18:46:43,225 - Pausing playback
+2024-11-14 18:50:44,216 - User Input: resume playback
+2024-11-14 18:50:47,447 - Error playing song.
+2024-11-14 18:50:52,609 - User Input: play music
+2024-11-14 18:50:57,455 - Playing Music Sounds Better With You by Stardust
+2024-11-14 18:51:17,742 - User Input: play
+2024-11-14 18:51:20,976 - Error playing song.
+2024-11-14 18:51:28,996 - User Input: play dire straits
+2024-11-14 18:51:33,479 - Playing Money for Nothing by Dire Straits
